@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/KarinKM/KarinKM.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files. Hello, this is my changed text.
+You can use the [editor on GitHub](https://github.com/KarinKM/KarinKM.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files. 
+
+Hello, this is my changed text. **HELLO AGAIN!!!!**
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,17 +13,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Hello Awesome People
+## This is a test
+### And another test
 
-- Bulleted
-- List
+This is my new list
+- Jeesus
+- Marjorie
+- Kiliana
+- Faby
 
-1. Numbered
-2. List
+1. Do not know what to write
+2. still not
 
 **Bold** and _Italic_ and `Code` text
+**Trying bold test** and normal text and _italic text is awesome too_ now back to normal and now 'code whatever'.
 
 [Link](url) and ![Image](src)
 ```
