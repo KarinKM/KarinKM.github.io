@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/KarinKM/KarinKM.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files. 
+## Welcome to the best webpage ever
 
 Hello, this is my changed text. **HELLO AGAIN!!!!**
 
@@ -10,7 +8,7 @@ Hello, this is my changed text. **HELLO AGAIN!!!!**
 ### And another test
 
 This is my new list
-- Jeesus
+- Jesus
 - Marjorie
 - Kiliana
 - Faby
