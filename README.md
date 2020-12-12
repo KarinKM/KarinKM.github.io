@@ -23,7 +23,7 @@ This is my new list
 
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](AcceleRed Logo-02 (1))
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
